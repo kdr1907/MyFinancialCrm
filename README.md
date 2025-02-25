@@ -1,7 +1,7 @@
-# MyFinancialCrm
+Finans Uygulaması
 
 # 📌 C# Eğitim Kampı - Final Projesi
-Bu proje, Murat Yücedağ'ın C# Eğitim Kampı final projesidir. Windows Form ile geliştirilmiş bir finans yönetim uygulamasıdır. Kullanıcı giriş yaparak gelir-gider durumunu ve banka hesaplarını görüntüleyebilir.
+Bu proje, Murat Yücedağ'ın C# Eğitim Kampı final projesidir. Windows Form ile geliştirilmiş bir finans yönetim uygulamasıdır. Kullanıcı giriş yaparak gelir-gider durumunu ve banka hesaplarını görüntüleyebilir güncelleyebilir.
 
 ## 🚀 Özellikler
 ✔️ Windows Form ile masaüstü uygulama olarak geliştirilmiştir.  

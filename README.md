@@ -21,35 +21,35 @@ Bu proje, Murat Yücedağ'ın C# Eğitim Kampı final projesidir. Windows Form i
 
 #### 🔹 Login Ekranı
 ![Login Form](![1loginsayfa](https://github.com/user-attachments/assets/71c739c2-03b6-43c9-a515-388b39072ef8)
-)
+
 
 #### 🔹 Dashboard Ekranı
 ![Dashboard Form](![2dashboard](https://github.com/user-attachments/assets/727ba9a5-2293-4c15-b02b-c94e66c41891)
-)
+
 
 #### 🔹 Kategori Ekranı
 ![Category Form](![3kategorisayfa](https://github.com/user-attachments/assets/514f9b7b-9a7d-407f-9542-dbb030de34f6)
-)
+
 
 #### 🔹 Bankalar Ekranı
 ![Bank Form](![4bankssayfa](https://github.com/user-attachments/assets/9eac29ae-a469-4734-bb77-86dcb35c7ccf)
-)
+
 
 #### 🔹 Ödemeler Fatura Ekranı
 ![Bill Form](![5billödemesayfa](https://github.com/user-attachments/assets/aa55106c-2ebd-4db9-9188-4b327bd14929)
-)
+
 
 #### 🔹 Giderler Ekranı
 ![Spending Form](![6spendinggiderlersayaf](https://github.com/user-attachments/assets/7f6e8257-d7d4-4a46-8ddb-971880d543a3)
-)
+
 
 #### 🔹 Banka Hareketleri Ekranı
 ![BankProcess Form](![7banksprocess](https://github.com/user-attachments/assets/1c0fc62f-df0b-444b-ac84-fbbee96d5e0e)
-)
+
 
 #### 🔹 Ayarlar Ekranı
 ![Settings Form](![8settings](https://github.com/user-attachments/assets/449f0fe9-aacc-4cda-b79c-313cdd9ebcc7)
-)
+
 
 #### 🔹 Db tablolar
 ![tablolar](https://github.com/user-attachments/assets/51afeb9d-f19d-4b9c-861a-9ffa283f3aac)

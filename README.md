@@ -12,7 +12,7 @@ Bu proje, Murat Yücedağ'ın C# Eğitim Kampı final projesidir. Windows Form i
 ✔️ Entity Framework kullanılmıştır.
 
 ## 🛠 Teknolojiler
-C# (.NET)
-Windows Form
-Entity Framework
-Microsoft SQL Server
+- C# (.NET)
+- Windows Form
+- Entity Framework
+- Microsoft SQL Server

@@ -52,7 +52,7 @@ Bu proje, Murat Yücedağ'ın C# Eğitim Kampı final projesidir. Windows Form i
 
 
 #### 🔹 Db tablolar
-!(https://github.com/user-attachments/assets/51afeb9d-f19d-4b9c-861a-9ffa283f3aac)
+![Ekran görüntüsü 2025-02-25 230648](https://github.com/user-attachments/assets/d0a04ece-b8ec-48c1-bdb2-f9fe99b6a405)
 
 
 

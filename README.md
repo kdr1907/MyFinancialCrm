@@ -40,7 +40,8 @@ Bu proje, Murat Yücedağ'ın C# Eğitim Kampı final projesidir. Windows Form i
 
 
 #### 🔹 Giderler Ekranı
-![6spendinggiderlersayaf](https://github.com/user-attachments/assets/7f6e8257-d7d4-4a46-8ddb-971880d543a3)
+![image](https://github.com/user-attachments/assets/bce8b991-b805-4e22-ab84-25bec5d98496)
+
 
 
 #### 🔹 Banka Hareketleri Ekranı

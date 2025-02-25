@@ -7,9 +7,9 @@ Bu proje, Murat Yücedağ'ın C# Eğitim Kampı final projesidir. Windows Form i
 ✔️ Windows Form ile masaüstü uygulama olarak geliştirilmiştir.
 ✔️ Kullanıcı girişi sistemi bulunmaktadır.
 ✔️ Gelir - Gider yönetimi yapılabilir.
-✔️ Banka hesapları görüntülenebilir.
-✔️ Microsoft SQL Server ile veriler güvenli şekilde saklanmaktadır.
-✔️ Entity Framework kullanılmıştır.
+✔️Banka hesapları görüntülenebilir.
+✔️Microsoft SQL Server ile veriler güvenli şekilde saklanmaktadır.
+✔️Entity Framework kullanılmıştır.
 
 ## 🛠 Teknolojiler
 - C# (.NET)
